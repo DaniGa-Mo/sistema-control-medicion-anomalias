@@ -1,0 +1,2 @@
+TP,FP,FN,TN,precision,recall,f1_score,total_lecturas,total_anomalias_detectadas
+655,105,399,16841,0.8618,0.6214,0.7222,18000,760

@@ -1,0 +1,21 @@
+# Power BI
+*.pbix.bak
+~$*.pbix
+
+# Archivos temporales de Windows/Office
+~$*
+Thumbs.db
+desktop.ini
+
+# Entornos Python (por si en algún momento usas venv)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Archivos del sistema macOS
+.DS_Store
+
+# Editores
+.vscode/
+.idea/

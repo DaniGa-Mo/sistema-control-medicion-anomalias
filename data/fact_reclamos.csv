@@ -1,0 +1,321 @@
+﻿id_reclamo,id_cliente,id_medidor,comuna,tipo_reclamo,fecha_reclamo,estado_reclamo,fecha_cierre,dias_resolucion,id_contratista_asignado
+RC-00001,CL-01299,MD-01299,Hualpén,Error de Facturación,2025-01-16,Cerrado,2025-01-22,6.0,CT-07
+RC-00002,CL-00148,MD-00148,Talcahuano,Consumo Elevado,2025-06-09,En Proceso,,,CT-03
+RC-00003,CL-00906,MD-00906,San Pedro de la Paz,Fuga Visible,2025-10-07,Cerrado,2025-10-09,2.0,CT-06
+RC-00004,CL-00490,MD-00490,San Pedro de la Paz,Error de Facturación,2025-07-02,En Proceso,,,CT-06
+RC-00005,CL-01329,MD-01329,Hualpén,Consumo Elevado,2025-01-02,En Proceso,,,CT-07
+RC-00006,CL-00037,MD-00037,Concepción,Fuga Visible,2025-09-23,En Proceso,,,CT-01
+RC-00007,CL-00576,MD-00576,San Pedro de la Paz,Corte No Programado,2025-10-05,Cerrado,2025-10-15,10.0,CT-10
+RC-00008,CL-01115,MD-01115,Hualpén,Error de Facturación,2025-04-29,Abierto,,,CT-01
+RC-00009,CL-00979,MD-00979,Talcahuano,Error de Facturación,2025-02-17,Cerrado,2025-02-28,11.0,CT-08
+RC-00010,CL-01117,MD-01117,Concepción,Medidor Detenido,2025-06-27,Cerrado,2025-07-02,5.0,CT-09
+RC-00011,CL-00785,MD-00785,Concepción,Error de Facturación,2025-06-08,Abierto,,,CT-01
+RC-00012,CL-01026,MD-01026,Talcahuano,Medidor Detenido,2025-11-22,En Proceso,,,CT-10
+RC-00013,CL-00851,MD-00851,Concepción,Consumo Elevado,2025-12-10,Abierto,,,CT-10
+RC-00014,CL-00866,MD-00866,Talcahuano,Medidor Detenido,2025-09-15,Cerrado,2025-09-24,9.0,CT-07
+RC-00015,CL-00188,MD-00188,Talcahuano,Fuga Visible,2025-08-01,En Proceso,,,CT-02
+RC-00016,CL-00658,MD-00658,Talcahuano,Solicitud Cambio de Medidor,2025-05-20,Abierto,,,CT-04
+RC-00017,CL-00807,MD-00807,San Pedro de la Paz,Fuga Visible,2025-05-12,En Proceso,,,CT-04
+RC-00018,CL-00218,MD-00218,Chiguayante,Fuga Visible,2025-12-02,Abierto,,,CT-08
+RC-00019,CL-00348,MD-00348,Concepción,Medidor Detenido,2025-05-30,Abierto,,,CT-02
+RC-00020,CL-00458,MD-00458,Talcahuano,Medidor Detenido,2025-07-24,Cerrado,2025-07-30,6.0,CT-03
+RC-00021,CL-00880,MD-00880,Concepción,Consumo Elevado,2025-08-01,Cerrado,2025-08-16,15.0,CT-09
+RC-00022,CL-00224,MD-00224,Talcahuano,Medidor Detenido,2025-03-31,Cerrado,2025-04-03,3.0,CT-04
+RC-00023,CL-00371,MD-00371,Concepción,Medidor Detenido,2025-01-06,Abierto,,,CT-06
+RC-00024,CL-00067,MD-00067,Concepción,Corte No Programado,2025-09-01,En Proceso,,,CT-08
+RC-00025,CL-00789,MD-00789,Talcahuano,Consumo Elevado,2025-06-09,Cerrado,2025-06-12,3.0,CT-07
+RC-00026,CL-00229,MD-00229,San Pedro de la Paz,Medidor Detenido,2025-10-24,Cerrado,2025-10-26,2.0,CT-05
+RC-00027,CL-01042,MD-01042,Chiguayante,Fuga Visible,2025-08-12,Abierto,,,CT-10
+RC-00028,CL-01308,MD-01308,Chiguayante,Consumo Elevado,2025-10-31,Cerrado,2025-11-06,6.0,CT-01
+RC-00029,CL-01186,MD-01186,San Pedro de la Paz,Corte No Programado,2025-10-29,Abierto,,,CT-04
+RC-00030,CL-00648,MD-00648,Hualpén,Consumo Elevado,2025-05-31,En Proceso,,,CT-04
+RC-00031,CL-00633,MD-00633,Talcahuano,Error de Facturación,2025-01-18,Abierto,,,CT-09
+RC-00032,CL-01150,MD-01150,San Pedro de la Paz,Fuga Visible,2025-10-22,Cerrado,2025-10-25,3.0,CT-05
+RC-00033,CL-00914,MD-00914,Talcahuano,Solicitud Cambio de Medidor,2025-08-05,Abierto,,,CT-03
+RC-00034,CL-01159,MD-01159,San Pedro de la Paz,Medidor Detenido,2025-11-13,Abierto,,,CT-02
+RC-00035,CL-00927,MD-00927,Concepción,Corte No Programado,2025-01-29,Cerrado,2025-01-31,2.0,CT-09
+RC-00036,CL-00258,MD-00258,Hualpén,Fuga Visible,2025-12-02,En Proceso,,,CT-09
+RC-00037,CL-00149,MD-00149,Concepción,Solicitud Cambio de Medidor,2025-03-16,Abierto,,,CT-05
+RC-00038,CL-00082,MD-00082,Hualpén,Fuga Visible,2025-07-02,Cerrado,2025-07-11,9.0,CT-01
+RC-00039,CL-01185,MD-01185,Concepción,Consumo Elevado,2025-10-05,Abierto,,,CT-02
+RC-00040,CL-00366,MD-00366,Talcahuano,Consumo Elevado,2025-11-27,Cerrado,2025-11-29,2.0,CT-08
+RC-00041,CL-01345,MD-01345,Chiguayante,Solicitud Cambio de Medidor,2025-11-21,En Proceso,,,CT-10
+RC-00042,CL-00478,MD-00478,Talcahuano,Error de Facturación,2025-06-05,Cerrado,2025-06-10,5.0,CT-09
+RC-00043,CL-00003,MD-00003,Chiguayante,Consumo Elevado,2025-04-28,Cerrado,2025-05-02,4.0,CT-03
+RC-00044,CL-01350,MD-01350,Concepción,Corte No Programado,2025-06-17,En Proceso,,,CT-08
+RC-00045,CL-01441,MD-01441,San Pedro de la Paz,Medidor Detenido,2025-05-05,Cerrado,2025-05-13,8.0,CT-09
+RC-00046,CL-01433,MD-01433,Talcahuano,Fuga Visible,2025-05-31,Cerrado,2025-06-04,4.0,CT-05
+RC-00047,CL-01416,MD-01416,San Pedro de la Paz,Solicitud Cambio de Medidor,2025-04-24,Cerrado,2025-04-27,3.0,CT-01
+RC-00048,CL-00879,MD-00879,Concepción,Fuga Visible,2025-08-16,Cerrado,2025-08-18,2.0,CT-05
+RC-00049,CL-01498,MD-01498,Talcahuano,Fuga Visible,2025-01-27,Abierto,,,CT-06
+RC-00050,CL-00054,MD-00054,San Pedro de la Paz,Consumo Elevado,2025-09-11,En Proceso,,,CT-03
+RC-00051,CL-00963,MD-00963,Concepción,Fuga Visible,2025-05-27,Cerrado,2025-05-29,2.0,CT-01
+RC-00052,CL-00085,MD-00085,Concepción,Medidor Detenido,2025-01-07,Cerrado,2025-01-12,5.0,CT-07
+RC-00053,CL-00574,MD-00574,Hualpén,Error de Facturación,2025-02-03,Cerrado,2025-02-10,7.0,CT-07
+RC-00054,CL-00055,MD-00055,Hualpén,Corte No Programado,2025-06-21,Cerrado,2025-06-26,5.0,CT-02
+RC-00055,CL-00741,MD-00741,Talcahuano,Medidor Detenido,2025-04-12,Cerrado,2025-04-22,10.0,CT-06
+RC-00056,CL-00849,MD-00849,Talcahuano,Solicitud Cambio de Medidor,2025-07-15,Cerrado,2025-07-19,4.0,CT-07
+RC-00057,CL-00755,MD-00755,Concepción,Consumo Elevado,2025-09-09,Cerrado,2025-09-12,3.0,CT-05
+RC-00058,CL-01230,MD-01230,Talcahuano,Consumo Elevado,2025-03-04,Cerrado,2025-03-10,6.0,CT-07
+RC-00059,CL-01203,MD-01203,Concepción,Consumo Elevado,2025-04-09,Cerrado,2025-04-17,8.0,CT-04
+RC-00060,CL-01442,MD-01442,Concepción,Error de Facturación,2025-03-14,Cerrado,2025-04-02,19.0,CT-07
+RC-00061,CL-00594,MD-00594,Talcahuano,Solicitud Cambio de Medidor,2025-12-03,Cerrado,2025-12-09,6.0,CT-02
+RC-00062,CL-00134,MD-00134,Talcahuano,Solicitud Cambio de Medidor,2025-08-01,Cerrado,2025-08-13,12.0,CT-10
+RC-00063,CL-01264,MD-01264,Talcahuano,Fuga Visible,2025-08-11,Cerrado,2025-08-13,2.0,CT-01
+RC-00064,CL-00794,MD-00794,Hualpén,Solicitud Cambio de Medidor,2025-06-01,Cerrado,2025-06-14,13.0,CT-03
+RC-00065,CL-00988,MD-00988,Talcahuano,Fuga Visible,2025-06-29,Cerrado,2025-07-20,21.0,CT-04
+RC-00066,CL-01042,MD-01042,Chiguayante,Fuga Visible,2025-01-07,En Proceso,,,CT-07
+RC-00067,CL-00140,MD-00140,San Pedro de la Paz,Fuga Visible,2025-12-06,En Proceso,,,CT-07
+RC-00068,CL-00979,MD-00979,Talcahuano,Consumo Elevado,2025-11-19,Abierto,,,CT-09
+RC-00069,CL-00083,MD-00083,Talcahuano,Consumo Elevado,2025-04-23,Abierto,,,CT-01
+RC-00070,CL-00982,MD-00982,Chiguayante,Corte No Programado,2025-11-13,En Proceso,,,CT-10
+RC-00071,CL-00204,MD-00204,San Pedro de la Paz,Solicitud Cambio de Medidor,2025-08-13,Cerrado,2025-08-20,7.0,CT-10
+RC-00072,CL-01035,MD-01035,Concepción,Corte No Programado,2025-09-29,En Proceso,,,CT-08
+RC-00073,CL-00383,MD-00383,Hualpén,Error de Facturación,2025-05-23,En Proceso,,,CT-04
+RC-00074,CL-00824,MD-00824,Talcahuano,Corte No Programado,2025-09-04,Cerrado,2025-09-06,2.0,CT-10
+RC-00075,CL-01384,MD-01384,Concepción,Medidor Detenido,2025-10-03,En Proceso,,,CT-06
+RC-00076,CL-00361,MD-00361,Talcahuano,Corte No Programado,2025-03-21,En Proceso,,,CT-09
+RC-00077,CL-00031,MD-00031,Hualpén,Corte No Programado,2025-04-30,Cerrado,2025-05-05,5.0,CT-05
+RC-00078,CL-01171,MD-01171,Hualpén,Consumo Elevado,2025-01-16,Cerrado,2025-02-01,16.0,CT-10
+RC-00079,CL-00746,MD-00746,San Pedro de la Paz,Fuga Visible,2025-10-15,Cerrado,2025-10-28,13.0,CT-04
+RC-00080,CL-00088,MD-00088,Hualpén,Fuga Visible,2025-09-18,Cerrado,2025-09-19,1.0,CT-05
+RC-00081,CL-00115,MD-00115,Hualpén,Medidor Detenido,2025-04-02,Cerrado,2025-04-10,8.0,CT-10
+RC-00082,CL-00906,MD-00906,San Pedro de la Paz,Medidor Detenido,2025-03-03,Cerrado,2025-03-16,13.0,CT-09
+RC-00083,CL-00804,MD-00804,Hualpén,Corte No Programado,2025-07-15,Abierto,,,CT-03
+RC-00084,CL-00965,MD-00965,Concepción,Error de Facturación,2025-01-26,Cerrado,2025-01-30,4.0,CT-09
+RC-00085,CL-01100,MD-01100,Talcahuano,Consumo Elevado,2025-10-17,Cerrado,2025-10-26,9.0,CT-05
+RC-00086,CL-00348,MD-00348,Concepción,Medidor Detenido,2025-07-06,Cerrado,2025-07-13,7.0,CT-07
+RC-00087,CL-00834,MD-00834,Concepción,Corte No Programado,2025-02-28,Cerrado,2025-03-04,4.0,CT-02
+RC-00088,CL-00137,MD-00137,Talcahuano,Corte No Programado,2025-04-26,Cerrado,2025-05-09,13.0,CT-01
+RC-00089,CL-00576,MD-00576,San Pedro de la Paz,Medidor Detenido,2025-06-05,Cerrado,2025-06-16,11.0,CT-02
+RC-00090,CL-00899,MD-00899,Concepción,Consumo Elevado,2025-04-15,Cerrado,2025-04-23,8.0,CT-03
+RC-00091,CL-01183,MD-01183,Hualpén,Solicitud Cambio de Medidor,2025-01-12,Cerrado,2025-01-17,5.0,CT-03
+RC-00092,CL-00059,MD-00059,Concepción,Error de Facturación,2025-02-15,Abierto,,,CT-02
+RC-00093,CL-01093,MD-01093,Hualpén,Medidor Detenido,2025-01-20,Cerrado,2025-01-23,3.0,CT-05
+RC-00094,CL-00572,MD-00572,Chiguayante,Fuga Visible,2025-10-28,Abierto,,,CT-02
+RC-00095,CL-01134,MD-01134,Concepción,Corte No Programado,2025-10-27,En Proceso,,,CT-05
+RC-00096,CL-01374,MD-01374,Talcahuano,Medidor Detenido,2025-07-07,Cerrado,2025-07-08,1.0,CT-01
+RC-00097,CL-01069,MD-01069,Talcahuano,Corte No Programado,2025-10-31,Cerrado,2025-11-13,13.0,CT-07
+RC-00098,CL-00660,MD-00660,Hualpén,Fuga Visible,2025-12-14,Abierto,,,CT-04
+RC-00099,CL-00920,MD-00920,Concepción,Fuga Visible,2025-05-29,En Proceso,,,CT-08
+RC-00100,CL-00784,MD-00784,Talcahuano,Consumo Elevado,2025-03-02,Abierto,,,CT-10
+RC-00101,CL-00934,MD-00934,Talcahuano,Consumo Elevado,2025-05-11,Cerrado,2025-05-19,8.0,CT-02
+RC-00102,CL-01050,MD-01050,Concepción,Medidor Detenido,2025-10-17,Cerrado,2025-10-23,6.0,CT-10
+RC-00103,CL-00388,MD-00388,Concepción,Fuga Visible,2025-06-28,Cerrado,2025-07-21,23.0,CT-04
+RC-00104,CL-00268,MD-00268,Chiguayante,Medidor Detenido,2025-10-02,Cerrado,2025-10-18,16.0,CT-07
+RC-00105,CL-01401,MD-01401,Concepción,Fuga Visible,2025-08-07,Cerrado,2025-08-08,1.0,CT-08
+RC-00106,CL-01136,MD-01136,Concepción,Consumo Elevado,2025-09-22,En Proceso,,,CT-08
+RC-00107,CL-01134,MD-01134,Concepción,Medidor Detenido,2025-03-28,Cerrado,2025-04-03,6.0,CT-04
+RC-00108,CL-00090,MD-00090,Talcahuano,Consumo Elevado,2025-08-14,Cerrado,2025-08-20,6.0,CT-09
+RC-00109,CL-01227,MD-01227,Talcahuano,Fuga Visible,2025-07-19,Cerrado,2025-07-27,8.0,CT-03
+RC-00110,CL-00546,MD-00546,Talcahuano,Consumo Elevado,2025-09-22,Cerrado,2025-09-29,7.0,CT-09
+RC-00111,CL-00861,MD-00861,Chiguayante,Medidor Detenido,2025-05-22,Cerrado,2025-05-25,3.0,CT-08
+RC-00112,CL-00393,MD-00393,Talcahuano,Consumo Elevado,2025-07-14,Cerrado,2025-07-28,14.0,CT-03
+RC-00113,CL-00418,MD-00418,Talcahuano,Fuga Visible,2025-01-19,Cerrado,2025-01-22,3.0,CT-04
+RC-00114,CL-00124,MD-00124,Concepción,Medidor Detenido,2025-05-15,En Proceso,,,CT-06
+RC-00115,CL-01220,MD-01220,Concepción,Medidor Detenido,2025-04-23,En Proceso,,,CT-05
+RC-00116,CL-00945,MD-00945,Concepción,Solicitud Cambio de Medidor,2025-05-03,Cerrado,2025-05-07,4.0,CT-07
+RC-00117,CL-00420,MD-00420,Chiguayante,Fuga Visible,2025-01-07,Cerrado,2025-01-18,11.0,CT-06
+RC-00118,CL-01314,MD-01314,Chiguayante,Solicitud Cambio de Medidor,2025-10-20,Cerrado,2025-10-24,4.0,CT-06
+RC-00119,CL-00010,MD-00010,Chiguayante,Solicitud Cambio de Medidor,2025-01-08,Cerrado,2025-01-14,6.0,CT-08
+RC-00120,CL-00002,MD-00002,San Pedro de la Paz,Solicitud Cambio de Medidor,2025-01-28,Cerrado,2025-02-13,16.0,CT-07
+RC-00121,CL-00641,MD-00641,Concepción,Fuga Visible,2025-09-23,En Proceso,,,CT-01
+RC-00122,CL-00898,MD-00898,San Pedro de la Paz,Fuga Visible,2025-06-02,Cerrado,2025-06-09,7.0,CT-08
+RC-00123,CL-01365,MD-01365,Chiguayante,Solicitud Cambio de Medidor,2025-07-21,Cerrado,2025-07-29,8.0,CT-05
+RC-00124,CL-00837,MD-00837,San Pedro de la Paz,Error de Facturación,2025-07-29,Cerrado,2025-08-01,3.0,CT-06
+RC-00125,CL-01041,MD-01041,Talcahuano,Medidor Detenido,2025-01-30,Cerrado,2025-02-01,2.0,CT-10
+RC-00126,CL-00643,MD-00643,Concepción,Error de Facturación,2025-10-08,Cerrado,2025-10-13,5.0,CT-01
+RC-00127,CL-00374,MD-00374,Hualpén,Fuga Visible,2025-08-14,Cerrado,2025-08-20,6.0,CT-02
+RC-00128,CL-00788,MD-00788,Talcahuano,Fuga Visible,2025-01-01,Cerrado,2025-01-07,6.0,CT-08
+RC-00129,CL-00300,MD-00300,Concepción,Error de Facturación,2025-04-13,Cerrado,2025-04-19,6.0,CT-08
+RC-00130,CL-00428,MD-00428,San Pedro de la Paz,Fuga Visible,2025-11-17,Abierto,,,CT-04
+RC-00131,CL-00742,MD-00742,Concepción,Solicitud Cambio de Medidor,2025-10-27,Cerrado,2025-10-27,0.0,CT-05
+RC-00132,CL-00628,MD-00628,Chiguayante,Fuga Visible,2025-02-21,En Proceso,,,CT-08
+RC-00133,CL-00452,MD-00452,Talcahuano,Fuga Visible,2025-10-30,Abierto,,,CT-05
+RC-00134,CL-00722,MD-00722,Concepción,Solicitud Cambio de Medidor,2025-09-04,En Proceso,,,CT-02
+RC-00135,CL-00382,MD-00382,Hualpén,Corte No Programado,2025-06-09,Cerrado,2025-06-20,11.0,CT-04
+RC-00136,CL-00707,MD-00707,Talcahuano,Solicitud Cambio de Medidor,2025-07-02,Cerrado,2025-07-07,5.0,CT-04
+RC-00137,CL-00587,MD-00587,Concepción,Error de Facturación,2025-09-22,En Proceso,,,CT-07
+RC-00138,CL-00912,MD-00912,Concepción,Consumo Elevado,2025-01-17,Cerrado,2025-01-31,14.0,CT-04
+RC-00139,CL-01222,MD-01222,Concepción,Error de Facturación,2025-03-17,Abierto,,,CT-09
+RC-00140,CL-00474,MD-00474,San Pedro de la Paz,Consumo Elevado,2025-04-24,En Proceso,,,CT-02
+RC-00141,CL-00938,MD-00938,San Pedro de la Paz,Solicitud Cambio de Medidor,2025-02-21,Cerrado,2025-03-05,12.0,CT-07
+RC-00142,CL-00311,MD-00311,Talcahuano,Consumo Elevado,2025-11-25,En Proceso,,,CT-09
+RC-00143,CL-00301,MD-00301,Concepción,Solicitud Cambio de Medidor,2025-09-18,Abierto,,,CT-10
+RC-00144,CL-00676,MD-00676,San Pedro de la Paz,Consumo Elevado,2025-03-17,Cerrado,2025-04-21,35.0,CT-04
+RC-00145,CL-00214,MD-00214,Concepción,Corte No Programado,2025-04-16,Cerrado,2025-04-21,5.0,CT-06
+RC-00146,CL-01007,MD-01007,Hualpén,Consumo Elevado,2025-04-08,En Proceso,,,CT-02
+RC-00147,CL-00390,MD-00390,Chiguayante,Fuga Visible,2025-08-07,Cerrado,2025-08-11,4.0,CT-03
+RC-00148,CL-00845,MD-00845,Concepción,Solicitud Cambio de Medidor,2025-03-31,Cerrado,2025-04-08,8.0,CT-02
+RC-00149,CL-00177,MD-00177,Hualpén,Error de Facturación,2025-06-27,Cerrado,2025-07-06,9.0,CT-03
+RC-00150,CL-01407,MD-01407,Chiguayante,Fuga Visible,2025-07-28,Cerrado,2025-08-02,5.0,CT-01
+RC-00151,CL-00907,MD-00907,Chiguayante,Consumo Elevado,2025-09-18,Cerrado,2025-09-26,8.0,CT-02
+RC-00152,CL-01096,MD-01096,Concepción,Fuga Visible,2025-09-08,Cerrado,2025-09-17,9.0,CT-09
+RC-00153,CL-01411,MD-01411,Concepción,Fuga Visible,2025-03-22,Cerrado,2025-03-31,9.0,CT-03
+RC-00154,CL-01462,MD-01462,Hualpén,Fuga Visible,2025-07-06,Cerrado,2025-07-08,2.0,CT-04
+RC-00155,CL-00470,MD-00470,San Pedro de la Paz,Medidor Detenido,2025-08-23,Cerrado,2025-08-29,6.0,CT-06
+RC-00156,CL-00486,MD-00486,San Pedro de la Paz,Fuga Visible,2025-02-22,Cerrado,2025-03-08,14.0,CT-07
+RC-00157,CL-00146,MD-00146,Concepción,Consumo Elevado,2025-03-19,Cerrado,2025-03-27,8.0,CT-05
+RC-00158,CL-01265,MD-01265,Concepción,Medidor Detenido,2025-06-03,En Proceso,,,CT-04
+RC-00159,CL-00692,MD-00692,Talcahuano,Solicitud Cambio de Medidor,2025-05-27,Cerrado,2025-06-04,8.0,CT-04
+RC-00160,CL-00604,MD-00604,Concepción,Corte No Programado,2025-06-15,Cerrado,2025-06-24,9.0,CT-03
+RC-00161,CL-01289,MD-01289,Concepción,Fuga Visible,2025-10-21,Abierto,,,CT-06
+RC-00162,CL-01481,MD-01481,Chiguayante,Medidor Detenido,2025-11-10,Abierto,,,CT-03
+RC-00163,CL-00254,MD-00254,Concepción,Medidor Detenido,2025-06-06,Abierto,,,CT-05
+RC-00164,CL-01431,MD-01431,Talcahuano,Consumo Elevado,2025-03-18,Cerrado,2025-03-20,2.0,CT-08
+RC-00165,CL-00381,MD-00381,Concepción,Solicitud Cambio de Medidor,2025-02-13,Cerrado,2025-02-18,5.0,CT-08
+RC-00166,CL-00427,MD-00427,Talcahuano,Medidor Detenido,2025-06-05,Cerrado,2025-06-12,7.0,CT-09
+RC-00167,CL-00679,MD-00679,San Pedro de la Paz,Medidor Detenido,2025-04-08,Cerrado,2025-04-18,10.0,CT-02
+RC-00168,CL-00123,MD-00123,Concepción,Solicitud Cambio de Medidor,2025-05-05,En Proceso,,,CT-07
+RC-00169,CL-01096,MD-01096,Concepción,Consumo Elevado,2025-06-10,En Proceso,,,CT-04
+RC-00170,CL-00052,MD-00052,Chiguayante,Solicitud Cambio de Medidor,2025-05-29,En Proceso,,,CT-01
+RC-00171,CL-00559,MD-00559,Chiguayante,Fuga Visible,2025-08-23,En Proceso,,,CT-06
+RC-00172,CL-00853,MD-00853,Concepción,Corte No Programado,2025-11-06,Cerrado,2025-11-21,15.0,CT-06
+RC-00173,CL-01394,MD-01394,Talcahuano,Consumo Elevado,2025-05-16,Cerrado,2025-05-19,3.0,CT-10
+RC-00174,CL-00759,MD-00759,San Pedro de la Paz,Fuga Visible,2025-11-25,En Proceso,,,CT-05
+RC-00175,CL-00736,MD-00736,San Pedro de la Paz,Solicitud Cambio de Medidor,2025-06-04,Cerrado,2025-06-06,2.0,CT-07
+RC-00176,CL-01117,MD-01117,Concepción,Solicitud Cambio de Medidor,2025-04-19,Cerrado,2025-04-28,9.0,CT-03
+RC-00177,CL-01409,MD-01409,Hualpén,Solicitud Cambio de Medidor,2025-01-15,Cerrado,2025-01-22,7.0,CT-05
+RC-00178,CL-01066,MD-01066,Chiguayante,Consumo Elevado,2025-08-02,Cerrado,2025-08-15,13.0,CT-05
+RC-00179,CL-00277,MD-00277,Chiguayante,Medidor Detenido,2025-11-13,Cerrado,2025-11-17,4.0,CT-10
+RC-00180,CL-00961,MD-00961,Concepción,Solicitud Cambio de Medidor,2025-11-15,Cerrado,2025-11-22,7.0,CT-02
+RC-00181,CL-01117,MD-01117,Concepción,Error de Facturación,2025-07-30,Cerrado,2025-08-01,2.0,CT-05
+RC-00182,CL-01041,MD-01041,Talcahuano,Corte No Programado,2025-10-11,Abierto,,,CT-09
+RC-00183,CL-00942,MD-00942,Talcahuano,Consumo Elevado,2025-04-03,Cerrado,2025-04-09,6.0,CT-03
+RC-00184,CL-00343,MD-00343,Concepción,Solicitud Cambio de Medidor,2025-06-22,Abierto,,,CT-03
+RC-00185,CL-00984,MD-00984,Concepción,Solicitud Cambio de Medidor,2025-09-27,Abierto,,,CT-09
+RC-00186,CL-00605,MD-00605,Concepción,Error de Facturación,2025-05-11,Abierto,,,CT-07
+RC-00187,CL-01211,MD-01211,Talcahuano,Corte No Programado,2025-04-05,Abierto,,,CT-02
+RC-00188,CL-01131,MD-01131,Chiguayante,Corte No Programado,2025-04-10,Abierto,,,CT-02
+RC-00189,CL-00738,MD-00738,Chiguayante,Error de Facturación,2025-03-25,Cerrado,2025-03-31,6.0,CT-06
+RC-00190,CL-00428,MD-00428,San Pedro de la Paz,Corte No Programado,2025-04-10,Cerrado,2025-04-15,5.0,CT-06
+RC-00191,CL-00320,MD-00320,Concepción,Medidor Detenido,2025-06-24,En Proceso,,,CT-04
+RC-00192,CL-01240,MD-01240,Concepción,Consumo Elevado,2025-04-27,Abierto,,,CT-03
+RC-00193,CL-01465,MD-01465,San Pedro de la Paz,Fuga Visible,2025-07-24,Cerrado,2025-07-26,2.0,CT-04
+RC-00194,CL-00992,MD-00992,Hualpén,Fuga Visible,2025-10-23,Cerrado,2025-11-05,13.0,CT-06
+RC-00195,CL-01248,MD-01248,Concepción,Fuga Visible,2025-06-05,Cerrado,2025-06-27,22.0,CT-08
+RC-00196,CL-00824,MD-00824,Talcahuano,Solicitud Cambio de Medidor,2025-06-09,Cerrado,2025-06-19,10.0,CT-10
+RC-00197,CL-00810,MD-00810,Concepción,Corte No Programado,2025-03-30,Cerrado,2025-04-05,6.0,CT-08
+RC-00198,CL-00321,MD-00321,Talcahuano,Solicitud Cambio de Medidor,2025-10-15,Cerrado,2025-10-23,8.0,CT-01
+RC-00199,CL-01221,MD-01221,San Pedro de la Paz,Fuga Visible,2025-01-10,Abierto,,,CT-06
+RC-00200,CL-00180,MD-00180,Concepción,Solicitud Cambio de Medidor,2025-09-20,Cerrado,2025-09-23,3.0,CT-02
+RC-00201,CL-01493,MD-01493,Concepción,Error de Facturación,2025-03-25,Cerrado,2025-04-02,8.0,CT-05
+RC-00202,CL-00622,MD-00622,Concepción,Medidor Detenido,2025-05-16,Cerrado,2025-05-25,9.0,CT-02
+RC-00203,CL-00365,MD-00365,San Pedro de la Paz,Corte No Programado,2025-05-27,Cerrado,2025-06-20,24.0,CT-09
+RC-00204,CL-00673,MD-00673,Concepción,Medidor Detenido,2025-06-15,Cerrado,2025-06-28,13.0,CT-06
+RC-00205,CL-00674,MD-00674,Talcahuano,Consumo Elevado,2025-01-09,En Proceso,,,CT-09
+RC-00206,CL-00417,MD-00417,Concepción,Solicitud Cambio de Medidor,2025-10-31,Cerrado,2025-11-02,2.0,CT-06
+RC-00207,CL-01387,MD-01387,Chiguayante,Corte No Programado,2025-01-08,Cerrado,2025-01-11,3.0,CT-05
+RC-00208,CL-00440,MD-00440,Concepción,Error de Facturación,2025-10-29,En Proceso,,,CT-02
+RC-00209,CL-00923,MD-00923,San Pedro de la Paz,Solicitud Cambio de Medidor,2025-05-27,Cerrado,2025-06-07,11.0,CT-04
+RC-00210,CL-01363,MD-01363,Hualpén,Error de Facturación,2025-05-04,En Proceso,,,CT-03
+RC-00211,CL-01182,MD-01182,Talcahuano,Consumo Elevado,2025-04-18,Cerrado,2025-04-19,1.0,CT-06
+RC-00212,CL-01354,MD-01354,Chiguayante,Corte No Programado,2025-06-04,Cerrado,2025-06-11,7.0,CT-06
+RC-00213,CL-01244,MD-01244,Chiguayante,Medidor Detenido,2025-03-11,Cerrado,2025-03-15,4.0,CT-04
+RC-00214,CL-00555,MD-00555,San Pedro de la Paz,Error de Facturación,2025-01-31,En Proceso,,,CT-09
+RC-00215,CL-00784,MD-00784,Talcahuano,Error de Facturación,2025-04-21,Abierto,,,CT-01
+RC-00216,CL-00442,MD-00442,San Pedro de la Paz,Corte No Programado,2025-06-13,Cerrado,2025-06-15,2.0,CT-05
+RC-00217,CL-00657,MD-00657,Concepción,Fuga Visible,2025-03-14,Cerrado,2025-03-22,8.0,CT-02
+RC-00218,CL-01444,MD-01444,Talcahuano,Consumo Elevado,2025-09-28,Cerrado,2025-10-18,20.0,CT-02
+RC-00219,CL-00472,MD-00472,San Pedro de la Paz,Error de Facturación,2025-01-21,Cerrado,2025-02-06,16.0,CT-07
+RC-00220,CL-00391,MD-00391,San Pedro de la Paz,Corte No Programado,2025-07-24,En Proceso,,,CT-05
+RC-00221,CL-00198,MD-00198,San Pedro de la Paz,Fuga Visible,2025-10-02,Abierto,,,CT-09
+RC-00222,CL-00958,MD-00958,Concepción,Error de Facturación,2025-08-12,Cerrado,2025-08-22,10.0,CT-06
+RC-00223,CL-00602,MD-00602,Concepción,Medidor Detenido,2025-01-17,En Proceso,,,CT-09
+RC-00224,CL-01341,MD-01341,Concepción,Corte No Programado,2025-10-24,Cerrado,2025-11-02,9.0,CT-09
+RC-00225,CL-00437,MD-00437,Concepción,Solicitud Cambio de Medidor,2025-09-14,Cerrado,2025-09-19,5.0,CT-08
+RC-00226,CL-00837,MD-00837,San Pedro de la Paz,Corte No Programado,2025-10-05,Cerrado,2025-10-09,4.0,CT-06
+RC-00227,CL-00780,MD-00780,Hualpén,Error de Facturación,2025-05-10,Cerrado,2025-05-18,8.0,CT-01
+RC-00228,CL-00485,MD-00485,Hualpén,Fuga Visible,2025-05-05,Cerrado,2025-05-14,9.0,CT-07
+RC-00229,CL-01333,MD-01333,Concepción,Error de Facturación,2025-06-26,En Proceso,,,CT-07
+RC-00230,CL-00119,MD-00119,San Pedro de la Paz,Error de Facturación,2025-03-26,Abierto,,,CT-04
+RC-00231,CL-01024,MD-01024,San Pedro de la Paz,Medidor Detenido,2025-04-12,Cerrado,2025-04-20,8.0,CT-09
+RC-00232,CL-01314,MD-01314,Chiguayante,Fuga Visible,2025-04-02,Cerrado,2025-04-08,6.0,CT-09
+RC-00233,CL-00681,MD-00681,Chiguayante,Error de Facturación,2025-03-26,Abierto,,,CT-03
+RC-00234,CL-00059,MD-00059,Concepción,Medidor Detenido,2025-12-09,Abierto,,,CT-08
+RC-00235,CL-00405,MD-00405,Talcahuano,Error de Facturación,2025-10-06,Cerrado,2025-10-13,7.0,CT-01
+RC-00236,CL-00258,MD-00258,Hualpén,Medidor Detenido,2025-08-16,Cerrado,2025-08-26,10.0,CT-09
+RC-00237,CL-00944,MD-00944,Chiguayante,Error de Facturación,2025-05-28,Cerrado,2025-06-03,6.0,CT-01
+RC-00238,CL-00857,MD-00857,Concepción,Corte No Programado,2025-03-27,Abierto,,,CT-04
+RC-00239,CL-01426,MD-01426,San Pedro de la Paz,Error de Facturación,2025-11-28,Cerrado,2025-12-10,12.0,CT-01
+RC-00240,CL-00349,MD-00349,Talcahuano,Medidor Detenido,2025-11-14,En Proceso,,,CT-09
+RC-00241,CL-01010,MD-01010,Talcahuano,Fuga Visible,2025-10-28,Cerrado,2025-11-05,8.0,CT-02
+RC-00242,CL-01168,MD-01168,Talcahuano,Error de Facturación,2025-02-15,Cerrado,2025-02-18,3.0,CT-02
+RC-00243,CL-00834,MD-00834,Concepción,Error de Facturación,2025-05-24,En Proceso,,,CT-10
+RC-00244,CL-00232,MD-00232,Talcahuano,Corte No Programado,2025-12-09,Cerrado,2025-12-17,8.0,CT-02
+RC-00245,CL-01125,MD-01125,Hualpén,Corte No Programado,2025-08-08,En Proceso,,,CT-09
+RC-00246,CL-01116,MD-01116,Hualpén,Error de Facturación,2025-11-15,Cerrado,2025-12-01,16.0,CT-05
+RC-00247,CL-00491,MD-00491,Talcahuano,Fuga Visible,2025-08-22,Abierto,,,CT-06
+RC-00248,CL-00285,MD-00285,Hualpén,Consumo Elevado,2025-01-05,Cerrado,2025-01-22,17.0,CT-06
+RC-00249,CL-00410,MD-00410,Concepción,Consumo Elevado,2025-11-30,Cerrado,2025-12-03,3.0,CT-08
+RC-00250,CL-00966,MD-00966,Talcahuano,Error de Facturación,2025-04-01,En Proceso,,,CT-02
+RC-00251,CL-00462,MD-00462,Hualpén,Corte No Programado,2025-01-11,Cerrado,2025-01-16,5.0,CT-07
+RC-00252,CL-00854,MD-00854,San Pedro de la Paz,Corte No Programado,2025-12-14,Cerrado,2025-12-19,5.0,CT-03
+RC-00253,CL-00343,MD-00343,Concepción,Medidor Detenido,2025-09-14,Abierto,,,CT-10
+RC-00254,CL-00111,MD-00111,Concepción,Error de Facturación,2025-01-25,Cerrado,2025-02-01,7.0,CT-10
+RC-00255,CL-00145,MD-00145,Concepción,Error de Facturación,2025-09-13,Cerrado,2025-09-18,5.0,CT-01
+RC-00256,CL-00375,MD-00375,Concepción,Medidor Detenido,2025-10-11,En Proceso,,,CT-03
+RC-00257,CL-00799,MD-00799,Hualpén,Solicitud Cambio de Medidor,2025-07-23,En Proceso,,,CT-06
+RC-00258,CL-00799,MD-00799,Hualpén,Corte No Programado,2025-09-20,En Proceso,,,CT-05
+RC-00259,CL-00773,MD-00773,Concepción,Medidor Detenido,2025-05-06,Abierto,,,CT-01
+RC-00260,CL-01210,MD-01210,San Pedro de la Paz,Medidor Detenido,2025-05-27,Cerrado,2025-06-05,9.0,CT-07
+RC-00261,CL-00829,MD-00829,Chiguayante,Fuga Visible,2025-01-28,Abierto,,,CT-05
+RC-00262,CL-01449,MD-01449,San Pedro de la Paz,Solicitud Cambio de Medidor,2025-08-28,Abierto,,,CT-09
+RC-00263,CL-01498,MD-01498,Talcahuano,Corte No Programado,2025-07-28,Cerrado,2025-08-14,17.0,CT-09
+RC-00264,CL-00561,MD-00561,Chiguayante,Consumo Elevado,2025-07-17,En Proceso,,,CT-09
+RC-00265,CL-01490,MD-01490,Talcahuano,Fuga Visible,2025-09-13,Cerrado,2025-09-16,3.0,CT-08
+RC-00266,CL-00122,MD-00122,San Pedro de la Paz,Consumo Elevado,2025-10-18,En Proceso,,,CT-07
+RC-00267,CL-00603,MD-00603,Concepción,Corte No Programado,2025-12-12,Abierto,,,CT-02
+RC-00268,CL-00429,MD-00429,Talcahuano,Fuga Visible,2025-01-31,Cerrado,2025-02-16,16.0,CT-09
+RC-00269,CL-00490,MD-00490,San Pedro de la Paz,Corte No Programado,2025-02-05,Cerrado,2025-02-07,2.0,CT-06
+RC-00270,CL-00628,MD-00628,Chiguayante,Fuga Visible,2025-11-05,Cerrado,2025-11-10,5.0,CT-09
+RC-00271,CL-00481,MD-00481,Hualpén,Error de Facturación,2025-06-24,Abierto,,,CT-04
+RC-00272,CL-00052,MD-00052,Chiguayante,Consumo Elevado,2025-09-18,En Proceso,,,CT-09
+RC-00273,CL-00986,MD-00986,Talcahuano,Consumo Elevado,2025-06-05,En Proceso,,,CT-07
+RC-00274,CL-01466,MD-01466,Concepción,Consumo Elevado,2025-11-20,Cerrado,2025-11-24,4.0,CT-03
+RC-00275,CL-00769,MD-00769,Talcahuano,Solicitud Cambio de Medidor,2025-05-20,Cerrado,2025-05-31,11.0,CT-02
+RC-00276,CL-00558,MD-00558,Concepción,Solicitud Cambio de Medidor,2025-01-27,Abierto,,,CT-05
+RC-00277,CL-01470,MD-01470,Chiguayante,Fuga Visible,2025-09-12,En Proceso,,,CT-08
+RC-00278,CL-00902,MD-00902,Concepción,Solicitud Cambio de Medidor,2025-06-13,Abierto,,,CT-09
+RC-00279,CL-01411,MD-01411,Concepción,Solicitud Cambio de Medidor,2025-05-28,Cerrado,2025-06-01,4.0,CT-09
+RC-00280,CL-01072,MD-01072,Concepción,Corte No Programado,2025-02-02,En Proceso,,,CT-03
+RC-00281,CL-01447,MD-01447,Hualpén,Error de Facturación,2025-08-12,Cerrado,2025-08-17,5.0,CT-06
+RC-00282,CL-01039,MD-01039,Concepción,Corte No Programado,2025-08-14,En Proceso,,,CT-02
+RC-00283,CL-00376,MD-00376,Concepción,Fuga Visible,2025-06-27,Abierto,,,CT-10
+RC-00284,CL-00619,MD-00619,Chiguayante,Medidor Detenido,2025-08-21,Abierto,,,CT-10
+RC-00285,CL-00304,MD-00304,Hualpén,Error de Facturación,2025-04-08,Cerrado,2025-04-16,8.0,CT-02
+RC-00286,CL-01451,MD-01451,Talcahuano,Consumo Elevado,2025-06-10,Cerrado,2025-07-03,23.0,CT-03
+RC-00287,CL-01060,MD-01060,Hualpén,Consumo Elevado,2025-07-23,Cerrado,2025-08-05,13.0,CT-01
+RC-00288,CL-00327,MD-00327,Talcahuano,Consumo Elevado,2025-05-20,Abierto,,,CT-04
+RC-00289,CL-00302,MD-00302,Talcahuano,Corte No Programado,2025-08-15,Cerrado,2025-08-20,5.0,CT-09
+RC-00290,CL-00850,MD-00850,Hualpén,Consumo Elevado,2025-09-30,Cerrado,2025-10-07,7.0,CT-10
+RC-00291,CL-00345,MD-00345,Talcahuano,Error de Facturación,2025-05-14,Cerrado,2025-05-19,5.0,CT-01
+RC-00292,CL-01256,MD-01256,Talcahuano,Medidor Detenido,2025-11-05,Cerrado,2025-11-30,25.0,CT-05
+RC-00293,CL-01371,MD-01371,San Pedro de la Paz,Fuga Visible,2025-09-04,Cerrado,2025-09-10,6.0,CT-05
+RC-00294,CL-01061,MD-01061,San Pedro de la Paz,Error de Facturación,2025-01-06,Cerrado,2025-01-12,6.0,CT-05
+RC-00295,CL-00732,MD-00732,Chiguayante,Consumo Elevado,2025-05-10,Cerrado,2025-05-14,4.0,CT-08
+RC-00296,CL-00153,MD-00153,Concepción,Solicitud Cambio de Medidor,2025-02-16,Cerrado,2025-02-23,7.0,CT-06
+RC-00297,CL-00442,MD-00442,San Pedro de la Paz,Error de Facturación,2025-05-21,Cerrado,2025-06-05,15.0,CT-09
+RC-00298,CL-00333,MD-00333,Concepción,Error de Facturación,2025-12-07,Cerrado,2025-12-11,4.0,CT-01
+RC-00299,CL-00848,MD-00848,San Pedro de la Paz,Medidor Detenido,2025-07-23,Cerrado,2025-08-06,14.0,CT-08
+RC-00300,CL-01261,MD-01261,Concepción,Solicitud Cambio de Medidor,2025-01-06,Cerrado,2025-01-22,16.0,CT-07
+RC-00301,CL-00479,MD-00479,San Pedro de la Paz,Fuga Visible,2025-08-12,En Proceso,,,CT-01
+RC-00302,CL-00077,MD-00077,Chiguayante,Medidor Detenido,2025-01-24,Cerrado,2025-02-05,12.0,CT-09
+RC-00303,CL-00127,MD-00127,Chiguayante,Error de Facturación,2025-09-07,Cerrado,2025-09-12,5.0,CT-05
+RC-00304,CL-00570,MD-00570,Talcahuano,Medidor Detenido,2025-09-02,Abierto,,,CT-06
+RC-00305,CL-01089,MD-01089,San Pedro de la Paz,Corte No Programado,2025-08-29,Abierto,,,CT-04
+RC-00306,CL-01015,MD-01015,Chiguayante,Solicitud Cambio de Medidor,2025-01-02,Abierto,,,CT-09
+RC-00307,CL-00700,MD-00700,Talcahuano,Corte No Programado,2025-03-04,En Proceso,,,CT-10
+RC-00308,CL-01332,MD-01332,Chiguayante,Fuga Visible,2025-09-03,Abierto,,,CT-10
+RC-00309,CL-00701,MD-00701,Talcahuano,Corte No Programado,2025-06-22,Cerrado,2025-06-30,8.0,CT-08
+RC-00310,CL-00521,MD-00521,Hualpén,Corte No Programado,2025-11-13,En Proceso,,,CT-04
+RC-00311,CL-01332,MD-01332,Chiguayante,Corte No Programado,2025-10-25,Cerrado,2025-10-26,1.0,CT-02
+RC-00312,CL-00692,MD-00692,Talcahuano,Corte No Programado,2025-04-20,Cerrado,2025-05-07,17.0,CT-10
+RC-00313,CL-00448,MD-00448,Chiguayante,Solicitud Cambio de Medidor,2025-10-19,Cerrado,2025-11-02,14.0,CT-02
+RC-00314,CL-00170,MD-00170,Hualpén,Consumo Elevado,2025-08-25,En Proceso,,,CT-05
+RC-00315,CL-00411,MD-00411,Concepción,Consumo Elevado,2025-08-05,En Proceso,,,CT-04
+RC-00316,CL-00968,MD-00968,Concepción,Solicitud Cambio de Medidor,2025-05-27,Cerrado,2025-06-09,13.0,CT-06
+RC-00317,CL-01162,MD-01162,Concepción,Error de Facturación,2025-11-15,En Proceso,,,CT-07
+RC-00318,CL-01106,MD-01106,Concepción,Corte No Programado,2025-01-24,En Proceso,,,CT-06
+RC-00319,CL-01321,MD-01321,Concepción,Corte No Programado,2025-01-20,Cerrado,2025-02-02,13.0,CT-02
+RC-00320,CL-01399,MD-01399,Hualpén,Error de Facturación,2025-01-24,Abierto,,,CT-06
