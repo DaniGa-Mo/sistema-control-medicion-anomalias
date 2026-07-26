@@ -20,6 +20,20 @@ data/*.csv                → tablas listas para cargar en Power BI (modelo estr
 dashboard/                → archivo .pbix del dashboard (Power BI Desktop)
 ```
 
+## Vista previa del dashboard
+
+**Página 1 — Resumen Ejecutivo**
+![Resumen Ejecutivo](assets/01_resumen_ejecutivo.png)
+
+**Página 2 — Detección de Anomalías**
+![Detección de Anomalías](assets/02_deteccion_anomalias.png)
+
+**Página 3 — Gestión de Medidores**
+![Gestión de Medidores](assets/03_gestion_medidores.png)
+
+**Página 4 — Desempeño de Contratistas**
+![Desempeño de Contratistas](assets/04_desempeno_contratistas.png)
+
 ## Modelo de datos (esquema estrella)
 
 **Tablas de hechos**
@@ -78,12 +92,16 @@ dashboard/                → archivo .pbix del dashboard (Power BI Desktop)
 | Detección de "Medidor Detenido" | 100% recall |
 | Detección de "Submedición" | 26% recall *(oportunidad de mejora: modelo de tendencia/ML)* |
 
-## Próximos pasos del proyecto
+## Estado del proyecto
 
-1. Cargar las tablas CSV en Power BI Desktop y construir el modelo estrella
-2. Construir 4 páginas: Resumen Ejecutivo, Detección de Anomalías, Gestión de Medidores, Desempeño de Contratistas
-3. Publicar capturas + `.pbix` en este repositorio
-4. Documentar en el portafolio y LinkedIn
+- [x] Generación del dataset sintético (Python)
+- [x] Motor de detección de anomalías con validación de precisión
+- [x] Modelo de datos en estrella con relaciones en Power BI
+- [x] 16 medidas DAX
+- [x] 4 páginas de dashboard con formato profesional
+- [x] Publicación en GitHub
+- [ ] Publicación en portafolio personal
+- [ ] Publicación en LinkedIn
 
 ## Stack técnico
 `Python` (pandas, numpy, Faker) · `Power BI` (DAX, modelado estrella) · `Git/GitHub`
